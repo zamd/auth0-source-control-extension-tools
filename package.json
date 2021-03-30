@@ -1,5 +1,5 @@
 {
-  "name": "auth0-source-control-extension-tools",
+  "name": "@a0demo/auth0-source-control-extension-tools",
   "version": "5.2.0",
   "description": "Supporting tools for the Source Control extensions",
   "main": "lib/index.js",
