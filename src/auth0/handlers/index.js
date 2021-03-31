@@ -22,6 +22,7 @@ import * as prompts from './prompts';
 import * as migrations from './migrations';
 import * as actions from './actions';
 import * as organizations from './organizations';
+import * as logStreams from './logStreams';
 
 export {
   rules,
@@ -47,5 +48,6 @@ export {
   prompts,
   migrations,
   actions,
-  organizations
+  organizations,
+  logStreams
 };
